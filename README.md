@@ -1,4 +1,4 @@
 # Statistika dan probabilitas 2024
 # Paundra Pujo Darmawan
 # 5027241008
-Halo
+2024 DONE
